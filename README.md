@@ -11,5 +11,13 @@ Usage in the irb:
 	 "hello world".remove_vowels
 	  => "hll wrld"
 
-It's my first functional, but
-not-so-useful, gem.
+Usage as executable in gem:
+
+	vowelremoval "Hello world"
+	=> "Hll wrld"
+
+**It's my first functional, but not-so-useful, gem.**
+
+Changelog
+---------
+* Executable included in `/bin` directory.
