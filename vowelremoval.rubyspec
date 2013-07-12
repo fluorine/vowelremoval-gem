@@ -6,4 +6,5 @@ Gem::Specification.new do |s|
   s.description = s.summary
   s.authors     = ["Joseph (fluorine@GitHub)"]
   s.files       = ["lib/vowelremoval.rb"]
+  s.license     = "MIT"
 end
